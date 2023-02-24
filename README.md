@@ -1,5 +1,7 @@
-# Simple Timeline
+_This repository is archived in favor of [samie/SimpleTimeline](https://github.com/samie/SimpleTimeline)._
 
+# Simple Timeline
+ 
 Vaadin 10 Java integration of https://github.com/samie/simple-timeline
 
 ## Development instructions
